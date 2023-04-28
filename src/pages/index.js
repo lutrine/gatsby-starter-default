@@ -1,5 +1,5 @@
 // Import React
-import * as React from 'react'
+import * as React from "react"
 
 // Define the component
 const IndexPage = () => {
